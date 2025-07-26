@@ -2,7 +2,7 @@ import logging
 import time
 import requests
 from telegram import Bot
-from utils import imghdr
+
 
 TOKEN = "8041021589:AAFuD-HElQI4yehKOJ328-V50XFhk9XQWfQ"
 CHAT_ID = "2066686801"
